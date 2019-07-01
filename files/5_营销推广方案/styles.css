@@ -727,6 +727,9 @@
   top:0px;
   width:100px;
   height:24px;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
@@ -762,6 +765,9 @@
   top:0px;
   width:100px;
   height:24px;
+  font-family:'微软雅黑 Bold', '微软雅黑 Regular', '微软雅黑';
+  font-weight:700;
+  font-style:normal;
   font-size:14px;
   color:#FFFFFF;
   text-align:center;
